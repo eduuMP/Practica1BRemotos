@@ -1,3 +1,5 @@
 Salchichas
 Filete
 Costilla
+Costillas gordas
+Bistec
